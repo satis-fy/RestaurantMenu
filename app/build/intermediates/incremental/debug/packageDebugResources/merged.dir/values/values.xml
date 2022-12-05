@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorBlack70">#B3000000</color>
+    <color name="colorBlue">#0000A3</color>
+    <color name="colorGrey">#B2BEB5</color>
+    <color name="colorHint">#A8A8A8</color>
+    <color name="colorLightGrey">#DCDCDC</color>
+    <color name="colorYellow">#D1D100</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF3700B3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">RestaurantMenu</string>
+    <string name="label_add">Add</string>
+    <string name="label_kfc">KFC</string>
+    <string name="label_menu">Menu</string>
+    <string name="label_view_info">View Info</string>
+    <style name="BaseButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bg_shape_radius_10</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:paddingStart">22dp</item>
+        <item name="android:paddingEnd">22dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+
+    </style>
+    <style name="Theme.RestaurantMenu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+</resources>

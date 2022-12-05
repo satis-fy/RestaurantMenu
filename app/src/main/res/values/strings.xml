@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestaurantMenu</string>
+    <string name="label_add">Add</string>
+    <string name="label_kfc">KFC</string>
+    <string name="label_menu">Menu</string>
+    <string name="label_view_info">View Info</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.restaurantmenu.app-mergeDebugResources-35:/layout/layout_header.xml",
+        "source": "com.example.restaurantmenu.app-main-38:/layout/layout_header.xml"
+    },
+    {
+        "merged": "com.example.restaurantmenu.app-mergeDebugResources-35:/layout/item_text_menu.xml",
+        "source": "com.example.restaurantmenu.app-main-38:/layout/item_text_menu.xml"
+    },
+    {
+        "merged": "com.example.restaurantmenu.app-mergeDebugResources-35:/layout/item_menu.xml",
+        "source": "com.example.restaurantmenu.app-main-38:/layout/item_menu.xml"
+    },
+    {
+        "merged": "com.example.restaurantmenu.app-mergeDebugResources-35:/layout/restaurant_menus_list_fragment.xml",
+        "source": "com.example.restaurantmenu.app-main-38:/layout/restaurant_menus_list_fragment.xml"
+    },
+    {
+        "merged": "com.example.restaurantmenu.app-mergeDebugResources-35:/layout/item_image_menu.xml",
+        "source": "com.example.restaurantmenu.app-main-38:/layout/item_image_menu.xml"
+    },
+    {
+        "merged": "com.example.restaurantmenu.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.restaurantmenu.app-main-38:/layout/activity_main.xml"
+    }
+]
